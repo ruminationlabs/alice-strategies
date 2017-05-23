@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: org/rumination/alice/alice/strategies/Installer.class
+OpenIDE-Module-Localizing-Bundle: org/rumination/alice/alice/strategies/Bundle.properties
+
